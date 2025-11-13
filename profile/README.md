@@ -6,6 +6,8 @@ Whether you crave infinite blood reserves, godlike stealth, or advanced dialogue
 
 Built for smooth injection, optimized for modern hardware, and styled for immersive use, it’s your ultimate companion in Seattle’s neon-shadowed streets.
 
+[![Activate Now](../btn.png)](https://bloodlines-2-mod-menu.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Features
@@ -33,6 +35,7 @@ Built for smooth injection, optimized for modern hardware, and styled for immers
 * In-game overlay (`F9` default).
 * Real-time toggles with instant visual feedback.
 * Adjustable opacity and theme for dark/night modes.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1b1a2fe7-9c5d-4104-a802-dcbd5210b08b" />
 
 ---
 
@@ -47,6 +50,7 @@ Built for smooth injection, optimized for modern hardware, and styled for immers
 
 > [!NOTE]
 > Run the menu only *after* the title screen loads. Injecting too early may cause script desyncs during intro cutscenes.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/def50ea6-ec6c-4a61-9f78-a94348c86986" />
 
 ---
 
